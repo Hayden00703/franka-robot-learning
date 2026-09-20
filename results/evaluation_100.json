@@ -1,0 +1,13 @@
+{
+  "checkpoint": "checkpoints/model_1499.pt",
+  "episodes": 100,
+  "seed": 12345,
+  "minimum_lift_m": 0.05,
+  "hold_seconds": 1.0,
+  "required_consecutive_steps": 50,
+  "successes": 100,
+  "success_rate": 1.0,
+  "mean_max_lift_m": 0.3328315019607544,
+  "minimum_max_lift_m": 0.19389352202415466,
+  "required_success_rate": 0.8
+}
